@@ -1,0 +1,12 @@
+header nav ul{
+    background-color: black;
+    width: 20%;
+}
+header nav ul li{
+    list-style-type: none;
+
+}
+header nav ul li a{
+    color: white;
+    text-decoration: none;
+}

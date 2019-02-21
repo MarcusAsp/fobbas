@@ -1,0 +1,18 @@
+div.mess{
+    width: 500px;
+    background-color: blueviolet;
+    border: 1px dashed green;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+    box-sizing: border-box;
+}
+
+span.remove{
+    float: right;  
+}
+
+span.remove a{
+    color: white;
+    text-decoration: none;
+}
